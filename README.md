@@ -7,8 +7,8 @@
 <h2 align="center">🚀 About Me</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400" alt="Coding" /> -->
+  <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" /> -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200" alt="Coding" />
 </div>
 
 <p align="center">
