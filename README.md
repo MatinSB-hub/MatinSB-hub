@@ -68,7 +68,7 @@ As a Front-End Developer, I am looking for an opportunity to contribute to large
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=MatinSB-hub&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinSB-hub&layout=compact&theme=radical&hide_border=true" width="38%" /> -->
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinSB-hub&theme=radical&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinSB-hub&theme=radical&hide_border=true&background=0d1117" width="50%" />
 </div>
 
 <br />
