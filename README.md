@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00bad3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Matin+Salehi+Biklary;React+Front-End+Developer;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7b00ff&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Matin+Salehi+Biklary;React+Front-End+Developer;Software+Engineering+Student" alt="Typing SVG" />
 </div>
 
 <!-- About Me -->
@@ -68,7 +68,7 @@ As a Front-End Developer, I am looking for an opportunity to contribute to large
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=MatinSB-hub&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinSB-hub&layout=compact&theme=radical&hide_border=true" width="38%" /> -->
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinSB-hub&theme=radical&hide_border=true&background=0d1117" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatinSB-hub&theme=radical&hide_border=true&background=0d1117&card_width=900" width="100%" />
 </div>
 
 <br />
